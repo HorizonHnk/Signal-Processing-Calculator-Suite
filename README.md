@@ -151,5 +151,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [horizonhnk](https://github.com/horizonhnk)
+- Email: your.hhnk3693@gmail.com
