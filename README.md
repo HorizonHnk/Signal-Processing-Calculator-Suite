@@ -152,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - GitHub: [horizonhnk](https://github.com/horizonhnk)
-- Email: your.hhnk3693@gmail.com
+- Email: hhnk3693@gmail.com
